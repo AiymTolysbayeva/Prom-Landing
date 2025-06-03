@@ -61,21 +61,21 @@
 <section class="bg-gray-50 py-16 text-center" data-aos="fade-up">
   <h2 class="text-3xl font-bold text-red-700 mb-6">Что говорят сотрудники</h2>
   <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-    <div class="bg-white p-6 rounded-lg shadow">
-      <img src="/zhuldyz.jpg.png" alt="Жулдыз" class="w-24 h-24 mx-auto rounded-full object-cover mb-4">
-      <p class="italic mb-4">«Работаю уже 5 лет — коллектив и руководство отличные!»</p>
-      <p class="font-semibold text-red-700">Жулдыз, бухгалтер</p>
-    </div>
-    <div class="bg-white p-6 rounded-lg shadow">
-      <img src="/ruslan.jpg.png" alt="Руслан" class="w-24 h-24 mx-auto rounded-full object-cover mb-4">
-      <p class="italic mb-4">«Компания даёт возможности расти. Всё по-честному.»</p>
-      <p class="font-semibold text-red-700">Руслан, отдел продаж</p>
-    </div>
-    <div class="bg-white p-6 rounded-lg shadow">
-      <img src="/aisulu.jpg.png" alt="Айсулу" class="w-24 h-24 mx-auto rounded-full object-cover mb-4">
-      <p class="italic mb-4">«Нравится стабильность, уверенность и оплата вовремя!»</p>
-      <p class="font-semibold text-red-700">Айсулу, логист</p>
-    </div>
+    <div class="bg-white p-6 rounded-lg shadow flex flex-col items-center">
+  <img src="/zhuldyz.jpg.png" alt="Жулдыз" class="w-32 h-32 rounded-full object-cover mb-4 shadow-md">
+  <p class="italic mb-4 text-center">«Работаю уже 5 лет — коллектив и руководство отличные!»</p>
+  <p class="font-semibold text-red-700">Жулдыз, бухгалтер</p>
+</div>
+    <div class="bg-white p-6 rounded-lg shadow flex flex-col items-center">
+  <img src="/ruslan.jpg.png" alt="Руслан" class="w-32 h-32 rounded-full object-cover mb-4 shadow-md">
+  <p class="italic mb-4 text-center">«Компания даёт возможности расти. Всё по-честному.»</p>
+  <p class="font-semibold text-red-700">Руслан, отдел продаж</p>
+</div>
+    <div class="bg-white p-6 rounded-lg shadow flex flex-col items-center">
+  <img src="/aisulu.jpg.png" alt="Айсулу" class="w-32 h-32 rounded-full object-cover mb-4 shadow-md">
+  <p class="italic mb-4 text-center">«Нравится стабильность, уверенность и оплата вовремя!»</p>
+  <p class="font-semibold text-red-700">Айсулу, логист</p>
+</div>
   </div>
 </section>
 
